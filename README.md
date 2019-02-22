@@ -1,0 +1,2 @@
+# Tarifit-Dictionary
+Tarifit Dicionary
